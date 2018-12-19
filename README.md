@@ -118,6 +118,7 @@
 * [responsive voice](https://responsivevoice.org/)
 * [αρχική εργασία](https://github.com/ioniodi/D3js-US-educational-attainment)
 * [d3 github](https://github.com/d3/d3/wiki/Gallery)
+* [Google Chart](https://developers.google.com/chart/interactive/docs/gallery)
 * [ΕΛΣΤΑT](http://www.statistics.gr/)
 * [EUROSTAT](https://ec.europa.eu/eurostat/)
 
