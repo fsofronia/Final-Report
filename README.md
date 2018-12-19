@@ -56,20 +56,20 @@
 ## Παραδοτέο 2
 ### Σύνδεσμοι διαδραστικών παραδειγμάτων
 
-* Tic Tac Toe
 
- * https://fsofronia.github.io/gr/remix/tic-tac-toe/
+
+ * [Tic Tac Toe](https://fsofronia.github.io/gr/remix/tic-tac-toe/)
  
-* Purple Rain-ish (Mouse interactive)
 
- * https://fsofronia.github.io/gr/remix/purple-rain/
+
+ * [Purple Rain-ish (Mouse interactive)](https://fsofronia.github.io/gr/remix/purple-rain/)
 
 
 # Εργασία Ανάπτυξης 
 ## Παραδοτέο 1 
 
-#### [Link αποθετηρίου κώδικα]: https://github.com/fsofronia/D3js-US-educational-attainment
-#### [Link στο εκτελέσιμο]: https://fsofronia.github.io/D3js-US-educational-attainment/
+#### [Link αποθετηρίου κώδικα](https://github.com/fsofronia/D3js-US-educational-attainment)
+#### [Link στο εκτελέσιμο](https://fsofronia.github.io/D3js-US-educational-attainment/)
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
@@ -128,8 +128,8 @@
 * [responsive voice](https://responsivevoice.org/)
 * [αρχική εργασία](https://github.com/ioniodi/D3js-US-educational-attainment)
 * [d3 github](https://github.com/d3/d3/wiki/Gallery)
-* [ΕΛΣΤΑT] http://www.statistics.gr/
-* [EUROSTAT] https://ec.europa.eu/eurostat/
+* [ΕΛΣΤΑT](http://www.statistics.gr/)
+* [EUROSTAT](https://ec.europa.eu/eurostat/)
 
 
 
