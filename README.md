@@ -25,32 +25,22 @@
 
 # Εργασία Περιεχομένου 
 
-**Σύνδεσμος ιστότοπου https://fsofronia.github.io/gr/**
+**[Σύνδεσμος ιστότοπου](https://fsofronia.github.io/gr/)**
 
-**Σύνδεσμος αποθετηρίου https://github.com/fsofronia/gr**
+**[Σύνδεσμος αποθετηρίου](https://github.com/fsofronia/gr)**
 
 ## Παραδοτέο 1
 ### Σύνδεσμοι εικόνων
 
-* Photoshop
+  * [Photoshop](https://fsofronia.github.io/gr/gallery/photoshop/)
 
-  * https://fsofronia.github.io/gr/gallery/photoshop/
+  * [Smart Home](https://fsofronia.github.io/gr/gallery/smart-home/)
 
-* Smart Home
+  * [Fingerprint](https://fsofronia.github.io/gr/gallery/fingerprint/)
 
-  * https://fsofronia.github.io/gr/gallery/smart-home/
+  * [Search Voice](https://fsofronia.github.io/gr/gallery/search-voice/)
 
-* Fingerprint
-
-  * https://fsofronia.github.io/gr/gallery/fingerprint/
-
-* Search Voice
-
-  * https://fsofronia.github.io/gr/gallery/search-voice/
-
-* Macintosh
-
-  * https://fsofronia.github.io/gr/gallery/Macintosh/
+  * [Macintosh](https://fsofronia.github.io/gr/gallery/Macintosh/)
   
   
 ## Παραδοτέο 2
@@ -89,7 +79,7 @@
 ![Screenshot](image1.png)
 ![Screenshot](image2.png)
 ![Screenshot](image3.png)
-Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://fsofronia.github.io/D3js-US-educational-attainment/
+Γ & Δ & Ε) Δείτε το [εκτελέσιμο](https://fsofronia.github.io/D3js-US-educational-attainment/)
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
 
